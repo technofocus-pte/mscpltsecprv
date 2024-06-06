@@ -1,4 +1,4 @@
-**Lab 5 - Activating Security for Copilot using Azure subscription and
+#Lab 5 - Activating Security for Copilot using Azure subscription and
 analyzing the alerts generated in Microsoft Purview**
 
 **Introduction**
