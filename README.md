@@ -1,2 +1,2 @@
 # mscpltsecprv
-# Implementing Microsoft Copilot for Security
+# A Deep Dive into Implementing Microsoft Copilot for Security
