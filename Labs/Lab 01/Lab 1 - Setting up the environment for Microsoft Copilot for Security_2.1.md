@@ -1,6 +1,6 @@
-## **Lab 1 - Setting up the environment for Microsoft Copilot for Security**
+## Lab 1 - Setting up the environment for Microsoft Copilot for Security
 
-**Introduction**
+## Introduction
 
 The Microsoft Defender portal combines protection, detection,
 investigation, and response to threats across your entire organization
@@ -36,7 +36,7 @@ security monitoring. In addition, you’ll be creating a new user account
 with Office 365 license and installing the Microsoft 365 apps Windows 11
 Pro virtual machines.
 
-**Objectives**
+## Objectives
 
 - To assign the Owner role to the Azure subscription.
 
@@ -57,7 +57,7 @@ Pro virtual machines.
 - To prepare the testvm1 virtual machine for upcoming tasks, including
   installing Microsoft 365 apps.
 
-## **Task 0: Sync Host environment time**
+## Task 0: Sync Host environment time
 
 1.  Login to the Lab Virtual Machine using the credentials provided on
     the Home tab of the Lab interface.
@@ -208,7 +208,7 @@ style="width:4.72741in;height:6.01974in" />
 <img src="./media/image10.png" style="width:3.94756in;height:3.92038in"
 alt="A screenshot of a computer Description automatically generated" />
 
-## **Task 2: Add Owner role to subscription**
+## Task 2: Add Owner role to subscription
 
 1.  In the Azure portal search box, type **subscription**, navigate and
     click on **Subscriptions** under **Services**.
@@ -273,7 +273,7 @@ alt="A screenshot of a computer Description automatically generated" />
 **Note**: Microsoft 365 E5 license is assigned to your O365 tenant ID,
 which included Microsoft Defender for Endpoint feature.
 
-## **Task 3: Onboarding testserver1 in Microsoft Defender for Endpoints**
+## Task 3: Onboarding testserver1 in Microsoft Defender for Endpoints
 
 > 1\. In the Azure portal search bar, type **virtual machine**, then
 > navigate and click on **Virtual machines** under **Services**.
@@ -492,7 +492,7 @@ alt="A screenshot of a computer Description automatically generated" />
 
 <img src="./media/image73.png" style="width:6.5in;height:3.09861in" />
 
-## **Task 4: Onboarding testVM1 in Microsoft Defender for Endpoints**
+## Task 4: Onboarding testVM1 in Microsoft Defender for Endpoints
 
 > 1\. In the Azure portal search bar, type virtual machine, then
 > navigate and click on **Virtual machines** under **Services**.
@@ -667,7 +667,7 @@ alt="A screenshot of a computer Description automatically generated" />
 
 <img src="./media/image101.png" style="width:6.5in;height:4.11597in" />
 
-## **Task 5: Onboarding testVM2 in Microsoft Defender for Endpoints**
+## Task 5: Onboarding testVM2 in Microsoft Defender for Endpoints
 
 > 1\. In the Azure portal search bar, type virtual machine, then
 > navigate and click on **Virtual machines** under **Services**.
