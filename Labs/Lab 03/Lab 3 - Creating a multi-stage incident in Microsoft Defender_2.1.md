@@ -1,4 +1,4 @@
-**Lab 3: Creating a multi-stage incident in Microsoft Defender**
+## **Lab 3: Creating a multi-stage incident in Microsoft Defender**
 
 **Introduction**
 
@@ -7,7 +7,7 @@ Defender by executing malicious documents and scripts in testvm1. The
 multi-stage incident will be analyzed in the upcoming labs using
 Microsoft Copilot for Security.
 
-**Objectives**
+## **Objectives**
 
 - To install Git and download repositories having malware payloads on
   testvm1 in Azure.
@@ -456,7 +456,7 @@ alt="A screenshot of a computer Description automatically generated" />
 <img src="./media/image64.png"
 style="width:5.5709in;height:3.11318in" />
 
-**Task 4: Checking protection action and recommendations from Windows
+## **Task 4: Checking protection action and recommendations from Windows
 Security**
 
 1.  In **testvm1** search bar, type **virus and threat protection**,
