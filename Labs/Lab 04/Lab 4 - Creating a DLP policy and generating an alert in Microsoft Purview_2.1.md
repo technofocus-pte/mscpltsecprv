@@ -1,4 +1,4 @@
-**Lab 04 - Creating a DLP policy and generating an alert in Microsoft
+## **Lab 04 - Creating a DLP policy and generating an alert in Microsoft
 Purview**
 
 ### Introduction
