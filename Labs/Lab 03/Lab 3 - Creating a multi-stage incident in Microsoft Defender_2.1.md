@@ -1,6 +1,6 @@
-## **Lab 3: Creating a multi-stage incident in Microsoft Defender**
+## Lab 3: Creating a multi-stage incident in Microsoft Defender
 
-**Introduction**
+## **Introduction**
 
 In this lab, you’ll be creating a multi-stage incident in Microsoft
 Defender by executing malicious documents and scripts in testvm1. The
@@ -484,7 +484,7 @@ alt="A screenshot of a computer Description automatically generated" />
 
 <img src="./media/image69.png" style="width:6.5in;height:3.84028in" />
 
-**Summary**
+## **Summary**
 
 In this lab, you've installed and configured Git on testvm1. You've also
 executed malicious documents and scripts. Then, you've simulated a
